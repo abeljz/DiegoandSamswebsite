@@ -1,0 +1,17 @@
+body{
+	background-color: YellowGreen;
+}
+p{
+	font-size: 15px;
+	color: Turquoise;
+}
+a{
+	font-size: 25px;
+	color: Red;
+}
+.girlfriend{
+	font-size: 30px;
+}
+span{
+	color: Green;
+}
